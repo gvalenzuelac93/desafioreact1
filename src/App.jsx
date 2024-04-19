@@ -16,7 +16,7 @@ function App() {
            image="https://cdn.pixabay.com/photo/2019/05/21/05/07/animal-4218265_1280.jpg"
            title="Bartolo"
            colorBadge="success"
-           text="Lleno de energía y listo para jugar.¡Dale a Bartolo el hogar amoroso que se merece!"
+           text="Lleno de energía y listo para jugar. ¡Dale a Bartolo el hogar amoroso que se merece!"
            textBadge="Husky"
          />
          <MyCard
